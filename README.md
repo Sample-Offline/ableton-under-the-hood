@@ -90,7 +90,7 @@ If you want the fonts used by the app, for whatever reason, they're at:
 
 As of Ableton 11, the list should look similar to:
 
-```
+```plaintext
 AbletonSans-Light.ttf
 AbletonSansSmall-Bold.ttf
 AbletonSansSmall-Regular.ttf
@@ -172,4 +172,10 @@ sqlite> select * from sample_mappings;
 # etc...
 ```
 
-## Custom Metronomes
+## 3. Custom Metronomes
+
+TODO
+
+## 4. Theming
+
+TODO
