@@ -179,3 +179,11 @@ TODO
 ## 4. Theming
 
 TODO
+
+## 5. Preferences
+
+IF you want to preserve preferences between installs, copy 
+Windows: `\Users\[username]\AppData\Roaming\Ableton\Live 11.x\Preferences\`
+Mac: `/Users/[username]/Library/Preferences/Ableton/Live 11.x/`
+
+Or create a cronjob to periodically copy them and `git push`. `git init` in that dir won't work cause the path changes every update. 
